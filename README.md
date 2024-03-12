@@ -31,7 +31,7 @@ Deep Learning: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](ht
 
 NLP :  [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn)
 
-### Machine Learning, Deep Learning, and NLP Projects
+## Machine Learning, Deep Learning, and NLP Projects
 
 1. **First End-To-End ML Project for Starters [Student Performance Prediction]**  [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Rv6UFGNmNZg&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=2)
 
